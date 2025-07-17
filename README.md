@@ -5,7 +5,7 @@
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-12%2B%20Event%20IDs-red)
 ![Wazuh SIEM](https://img.shields.io/badge/Wazuh-SIEM-orange)
 
-> **Comprehensive cybersecurity lab demonstrating Active Directory attack simulation with visual evidence and endpoint hardening validation achieving high CIS compliance.**
+> **Comprehensive cybersecurity lab demonstrating Active Directory attack simulation with visual evidence and endpoint hardening validation, achieving high CIS compliance.**
 
 ## 🎯 Project Overview
 
@@ -73,7 +73,7 @@ AD-Endpoint-and-Hardening-Lab/
 ### Endpoint Hardening Validation
 - ✅ **Windows 11**: Achieved 90% CIS benchmark compliance (352/394 controls) via Local Group Policy
 - ✅ **Kali Linux**: Achieved 100% CIS benchmark compliance (16/16 controls) via system configurations
-- ✅ Validated compliance through automated Wazuh SCA dashboards with before/after comparisons
+- ✅ Validated compliance validated through Wazuh SCA dashboards with before-and-after comparisons
 - ✅ Comprehensive documentation of hardening procedures for reproducibility
 
 ## 🔍 Key Achievements
@@ -86,18 +86,22 @@ AD-Endpoint-and-Hardening-Lab/
 
 ## 🚀 Getting Started
 
-### For Active Directory Security Analysis
-1. **Visual Evidence**: Browse `/Active-Directory-Attack-Simulation/Screenshots/` for Event ID screenshots
-2. **Attack Simulation**: Review `/Active-Directory-Attack-Simulation/README.md` for methodology
-3. **Technical Documentation**: Check `/Active-Directory-Attack-Simulation/Documentation/` for detailed analysis
-4. **Scripts**: Explore `/Active-Directory-Attack-Simulation/Scripts/` for execution guides and custom tools
+> This is a documentation-focused lab showcasing real-world cybersecurity techniques and outcomes. It does not require installation or execution.
 
-### For Endpoint Hardening Review
-1. **Hardening Results**: Navigate to `/Endpoint-Hardening/README.md` for compliance overview
-2. **Detailed Analysis**: Review documentation in `/Endpoint-Hardening/Documentation/`
-3. **Visual Proof**: Check `/Endpoint-Hardening/Screenshots/` for Wazuh SCA dashboards
+To explore or replicate this lab manually:
 
-Each folder contains comprehensive documentation with setup instructions, methodologies, and findings.
+### 🔍 Active Directory Attack Simulation
+- **Visual Evidence**: Browse `/Active-Directory-Attack-Simulation/Screenshots/` for Event ID screenshots
+- **Attack Simulation Methodology**: Review `/Active-Directory-Attack-Simulation/README.md`
+- **TTP Documentation**: See `/Active-Directory-Attack-Simulation/Documentation/` for event mapping and summaries
+- **Custom Scripts**: Located under `/Active-Directory-Attack-Simulation/Scripts/`
+
+### 🛡️ Endpoint Hardening
+- **Windows & Kali CIS Compliance**: Check `/Endpoint-Hardening/README.md`
+- **Hardening Procedures**: Detailed in `/Endpoint-Hardening/Documentation/`
+- **Compliance Dashboards**: Found in `/Endpoint-Hardening/Screenshots/`
+
+This project is ideal for blue teamers, SOC analysts, and cybersecurity learners interested in real-world MITRE ATT&CK simulation, event ID correlation, and benchmark-based hardening.
 
 ## 📊 Results Summary
 
@@ -114,7 +118,7 @@ Each folder contains comprehensive documentation with setup instructions, method
 
 - **LinkedIn**: [Muhammad Rafay Ali](https://www.linkedin.com/in/muhammad-rafay-ali)
 - **Email**: rafay.arshad1@outlook.com
-- **GitHub**: [This Repository](https://github.com/0xRafuSec/AD-Endpoint-and-Hardening-Lab)
+- **GitHub**: [0xRafuSec](https://github.com/0xRafuSec)
 
 ## 💡 Project Highlights
 
@@ -122,7 +126,7 @@ Each folder contains comprehensive documentation with setup instructions, method
 - **Visual Evidence Focus**: Complete Event ID documentation with actual screenshots
 - **Dual Methodology**: Combined automated tools (Atomic Red Team) with custom scripts and manual changes
 - **High Detection Rate**: 95%+ attack detection validates monitoring effectiveness  
-- **Perfect Documentation**: Professional-grade documentation suitable for portfolio presentation
+- **Perfect Documentation**: Portfolio-grade documentation suitable for portfolio presentation
 - **Real-World Relevance**: Techniques and hardening measures directly applicable to enterprise environments
 
 ### Technical Depth Demonstrated
@@ -135,10 +139,18 @@ Each folder contains comprehensive documentation with setup instructions, method
 
 ## 📝 Project Credits
 
-**Author**: Muhammad Rafay Ali (0xRafuSec)
-**Date**: 2025  
-**Purpose**: Cybersecurity Portfolio Demonstration  
-**Status**: ✅ Complete and Clean  
-**Industry Relevance**: Enterprise Security Operations
+| Field               | Description                                    |
+|---------------------|------------------------------------------------|
+| **Author**          | Muhammad Rafay Ali (`0xRafuSec`)              |
+| **Date**            | 2025                                           |
+| **Purpose**         | Cybersecurity Portfolio Demonstration          |
+| **Status**          | ✅ Complete and Clean                          |
+| **Industry Relevance** | Enterprise Security Operations             |
 
 **Key Achievement**: This lab demonstrates comprehensive hands-on experience with both offensive security testing and defensive hardening measures, showcasing practical cybersecurity skills directly applicable to enterprise security operations and SOC environments.
+
+---
+
+### 🏷️ Tags
+
+`#SOC` `#BlueTeam` `#RedTeam` `#SIEM` `#Wazuh` `#CIS` `#Hardening` `#MITRE-ATTACK` `#AtomicRedTeam` `#ActiveDirectory` `#CybersecurityPortfolio`
