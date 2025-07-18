@@ -1,4 +1,4 @@
-# AD Endpoint and Hardening Lab
+# Active-Directory-Attack-Simulation-and-Hardening-Lab
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-blue)
 ![CIS Compliance](https://img.shields.io/badge/CIS%20Compliance-90%25-brightgreen)
@@ -141,13 +141,13 @@ This project is ideal for blue teamers, SOC analysts, and cybersecurity learners
 
 | Field               | Description                                    |
 |---------------------|------------------------------------------------|
-| **Author**          | Muhammad Rafay Ali (`0xRafuSec`)              |
+| **Author**          | Muhammad Rafay Ali (`0xRafuSec`)               |
 | **Date**            | 2025                                           |
 | **Purpose**         | Cybersecurity Portfolio Demonstration          |
-| **Status**          | ✅ Complete and Clean                          |
-| **Industry Relevance** | Enterprise Security Operations             |
+| **Status**          | Complete and Clean                             |
+| **Industry Relevance** | Enterprise Security Operations              |
 
-**Key Achievement**: This lab demonstrates comprehensive hands-on experience with both offensive security testing and defensive hardening measures, showcasing practical cybersecurity skills directly applicable to enterprise security operations and SOC environments.
+**Key Achievement**: This lab demonstrates comprehensive hands-on experience with offensive security testing and defensive hardening measures, showcasing practical cybersecurity skills directly applicable to enterprise security operations and SOC environments.
 
 ---
 
